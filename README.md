@@ -66,7 +66,8 @@ course evaluation of seu information school
 要求用webgl（前期不允许使用框架）开发，还得学习js，很麻烦  
 考核方式是做四次实验并答辩，为了做这四次实验需要花很多时间，实验很麻烦（除非有丰富的js开发经验）
 点了2次名  
-对于本门课，推荐教材《webgl编程指南》，不推荐《fundmentals of computer graphics》《交互式计算机图形学》
+对于本门课，推荐教材《webgl编程指南》，不推荐《fundmentals of computer graphics》《交互式计算机图形学》  
+可以参考的实验代码见https://github.com/chesha1/cg_course  
 
 
 
