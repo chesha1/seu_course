@@ -1,6 +1,7 @@
 # seu_course
 course evaluation of seu information school 
-东南大学信息学院课程推荐
+东南大学信息学院可选课程推荐  
+以及一些我能回（chao）忆（xie）出来的真题  
 
 ### 必修课
 ##### 通信原理
